@@ -1,0 +1,12 @@
+Kaashify ERP UI Update
+
+Updated branding and interface styling across the application:
+- Brand name changed to Kaashify ERP.
+- Modern dashboard hero banner added.
+- Professional navy/blue/cyan visual theme added.
+- Sidebar, forms, KPI cards, buttons, alerts and sections restyled.
+- Core HR, Payroll and Backups pages updated with consistent Kaashify ERP headers.
+- Payroll PDF header branding changed to Kaashify ERP.
+- Streamlit theme configuration updated.
+
+Run Stop_HR_ERP.bat and then Launch_HR_ERP.bat after extracting this ZIP.
